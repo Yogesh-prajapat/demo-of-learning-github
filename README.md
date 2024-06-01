@@ -1,3 +1,5 @@
 # demo-of-learning-github
 this repo is created for learn git and github
-I am learning it from apna collage.
+
+# teacher sharda khapra
+I am learning coding from apna collage.
